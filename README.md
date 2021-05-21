@@ -9,7 +9,7 @@ Menu
 1. Who is head of department?
   Input {department_name}
 
-2.Show department statistics.
+2. Show department statistics.
     Input {department_name}
 
 3. Show the average salary for the department.
